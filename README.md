@@ -16,3 +16,6 @@ This project demonstrates various functionalities of OpenCV by processing video 
 - YOLOv4 pre-trained weights (automatically downloaded by the script)
 - NumPy and Requests libraries: `pip install numpy requests`
 
+## Demo
+https://github.com/KalevJulge/opencv-tests/assets/99997528/eeb54cc0-bb1e-488c-b6f0-cf31b3d6e15f
+
